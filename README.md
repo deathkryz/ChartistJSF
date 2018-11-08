@@ -1,6 +1,9 @@
 # ChartistJSF
 ***
 
+#postscript
+I'm not the original owner of this code, but I'm gonna try to maintain it and bring new versions and features, because I think the original creator just had abandoned the code.
+
 **ChartistJSF**, Highly Customizable Responsive Charts for JavaServer Faces.
 
 ![ChartistJSF-Line](http://i.imgur.com/blsm9kw.gif?1)
